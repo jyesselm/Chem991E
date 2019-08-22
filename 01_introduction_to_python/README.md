@@ -1,6 +1,6 @@
 # Lesson 1: How to Python and variable types 
 
-##How to run python 
+## How to run python 
 Option 1: Use the command line interpreter  
 
 ```bash
@@ -22,7 +22,7 @@ hello world
 ```
 
 
-##Strings 
+## Strings 
 
 Strings store text or any series of characters
 
