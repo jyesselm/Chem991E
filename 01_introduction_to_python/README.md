@@ -15,8 +15,8 @@ $ python
 Option 2: execute a script, always have the extension of your script be ".py"
 
 ```bash
-$ cat test.py 
-print(“hello world”)
+$ cat test.py
+print(“hello world”)
 $ python test.py 
 hello world
 ```
