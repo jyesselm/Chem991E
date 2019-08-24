@@ -17,6 +17,7 @@ The command line Terminal is a tool for interacting with your computer. A window
 ```bash
 mycomputer:~ myusername$
 ```
+
 ###Opening a console on Linux
 
 Different linux distributions (e.g Ubuntu, Fedora, Mint) may have different console programs, usually referred to as a terminal. The exact terminal you start up, and how, can depend on your distribution. On Ubuntu, you will likely want to open `Gnome Terminal`. It should present a prompt like this:
