@@ -42,43 +42,17 @@ https://repl.it/languages/python3
 This is a fully function version of python, although it might be inconvient to transfer files back and forth.
 
 ##Using a code editor
+A code editor helps with reading and writing programming code. There are many around, and it is one of the most personal choices a programmer can make - Like a tennis-player choosing their racket, or a chef choosing their favourite knife. To start off with, you'll just want a basic, easy-to-use one that doesn't get in your way, but is still effective at writing python code. Here are some suggestions for those:
 
-A code editor helps with reading and writing programming code. There are 
-many around, and it is one of the most personal choices a programmer can 
-make - Like a tennis-player choosing their racket, or a chef choosing their 
-favourite knife. To start off with, you'll just want a basic, easy-to-use one 
-that doesn't get in your way, but is still effective at writing python code. 
-Here are some suggestions for those:
+[Atom](https://atom.io): Windows, Mac & Linux. A new code editor made by Github. It's an open-source project and is very easy to add functionality for, with its packages system.
 
-- `Atom`_: Windows, Mac & Linux. A new code editor made by Github. It's 
-  an open-source project and is very easy to add functionality for, 
-  with its packages system.
+[Sublime Text](https://www.sublimetext.com/3): Windows, Mac & Linux. A great all around editor that's easy to use. It's Ctl+B shortcut lets you run the python file you're working on straight away.
 
-- `Sublime Text`_: Windows, Mac & Linux. A great all around editor that's 
-  easy to use. It's Ctl+B shortcut lets you run the python file you're working 
-  on straight away.
+[Geany](http://www.geany.org/): Windows, Mac & Linux. A simple editor that doesn't aim to be too complicated.
 
-- `Geany`_: Windows, Mac & Linux. A simple editor that doesn't aim 
-  to be too complicated.
+[TextMate](http://macromates.com/): Mac. One of the most famous code editors for Mac, it used to be a paid product but has since been open-sourced.
 
-- `TextMate`_: Mac. One of the most famous code editors for Mac, it used to 
-  be a paid product but has since been open-sourced.
+[Gedit]( https://projects.gnome.org/gedit/) and [Kate](http://kate-editor.org/): Linux. If you run Linux using Gnome or KDE respectively, you might already have one of these two installed!
+Komodo Edit: Windows, Mac & Linux. a sleak, free editor based on the more powerful Komodo IDE.
 
-- `Gedit`_ and `Kate`_: Linux. If you run Linux using Gnome or KDE respectively, 
-  you might already have one of these two installed!
-
-- `Komodo Edit`_: Windows, Mac & Linux. a sleak, free editor based on the 
-  more powerful Komodo IDE.
-
-.. _Atom: https://atom.io
-.. _Sublime Text: https://www.sublimetext.com/3
-.. _Geany: http://www.geany.org/
-.. _TextMate: http://macromates.com/
-.. _Gedit: https://projects.gnome.org/gedit/
-.. _Kate: http://kate-editor.org/
-.. _Komodo Edit: http://www.activestate.com/komodo-edit
-
-Tip
-
-Wordpad, TextEdit, Notepad, and Word are not suitable code editors.
 
