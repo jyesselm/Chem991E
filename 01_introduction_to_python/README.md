@@ -281,6 +281,29 @@ KeyError: 'key3'
 ['value2', 'value1']
 
 ```
+## More information on dictionaries
+https://www.w3schools.com/python/python_dictionaries.asp 
+https://www.geeksforgeeks.org/python-dictionary/
+
+
+## Reference Semantics 
+Applies to lists, dictionaries and custom objects we will cover in future lectures.
+
+```python
+>>>a = [1, 2, 3, 4]
+>>>b = a	# now b is another reference or 'name' for the same list 
+>>>a.append(4)
+>>>print(b)
+>>>[1, 2, 3, 4]
+
+# to create a new list instead of giving the same list a new name
+# any of these will work 
+>>> b = a.copy()
+>>> b = list(a)
+>>> b = a[::]
+
+```
+
 
 ## Introduction to getting input from users 
 Most programs you have used require you to input some data, the simplest way to do this in python is with the `input` function
@@ -298,7 +321,7 @@ Joe
 if statements allow decisions to be made based on the resultant values of conditionals 
 
 ```python
->>>if 5 > 2: #5 is greater than 2 so will excute statement within the if statement. Statements within the if statement are tabbed 
+>>>if 5 > 2: #5 is greater than 2 so will execute statement within the if statement. Statements within the if statement are tabbed 
 ...     print("this is always true")
 ... 
 this is always true
