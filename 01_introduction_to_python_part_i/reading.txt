@@ -1,0 +1,25 @@
+Mark Lutz, Learning Python, 5th ed. OReilly 2013.
+
+pg 43-71, 93-101, 109-115, 133-143, 175-185, 189-213, 239-255      
+
+Other resources:
+
+lists:
+
+https://www.w3schools.com/python/python_lists.asp
+https://www.geeksforgeeks.org/python-list/
+
+dictionaries:
+
+https://www.w3schools.com/python/python_dictionaries.asp
+https://www.geeksforgeeks.org/python-dictionary/
+
+input: 
+
+https://www.geeksforgeeks.org/taking-input-in-python/
+
+if/elsif/else:
+
+https://www.w3schools.com/python/python_conditions.asp
+https://www.tutorialspoint.com/python/python_if_else.htm
+
