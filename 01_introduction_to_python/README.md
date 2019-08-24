@@ -112,7 +112,7 @@ Operations with strings
 >>>"hello"*3 # repetition or string multiplication
 'hellohellohello'
 
->>>"hello"[0] # indexing, getting a specific character 
+>>>"hello"[0] # indexing, getting a specific character, 0 is the first character in the string
 'h'
 
 >>>"hello"[-1] # indexing from the end
