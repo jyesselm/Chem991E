@@ -42,7 +42,9 @@ https://repl.it/languages/python3
 
 This is a fully function version of python, although it might be inconvient to transfer files back and forth.
 
+
 ##Using a code editor
+
 A code editor helps with reading and writing programming code. There are many around, and it is one of the most personal choices a programmer can make - Like a tennis-player choosing their racket, or a chef choosing their favourite knife. To start off with, you'll just want a basic, easy-to-use one that doesn't get in your way, but is still effective at writing python code. Here are some suggestions for those:
 
 [Atom](https://atom.io): Windows, Mac & Linux. A new code editor made by Github. It's an open-source project and is very easy to add functionality for, with its packages system.
