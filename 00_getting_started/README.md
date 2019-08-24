@@ -8,7 +8,7 @@ Practically, Python is just another program on your computer. The first thing to
 
 A console (or 'terminal', or 'command prompt') is a textual way to interact with your OS, just as the 'desktop', in conjunction with your mouse, is the graphical way to interact your system. 
 
-##How to use Python
+## How to use Python
 ### Opening a console on Mac OS X
 OS X's standard console is a program called `Terminal`. Open Terminal by navigating to Applications, then Utilities, then double-click the `Terminal` program. You can also easily search for it in the system search tool in the top right.
 
@@ -18,11 +18,11 @@ The command line Terminal is a tool for interacting with your computer. A window
 mycomputer:~ myusername$
 ```
 
-###Opening a console on Linux
+### Opening a console on Linux
 
 Different linux distributions (e.g Ubuntu, Fedora, Mint) may have different console programs, usually referred to as a terminal. The exact terminal you start up, and how, can depend on your distribution. On Ubuntu, you will likely want to open `Gnome Terminal`. It should present a prompt like this:
 
-###Opening a console on Windows
+### Opening a console on Windows
 It is likely you will need to install Python on Windows
 
 http://python.org/download/
@@ -43,7 +43,7 @@ https://repl.it/languages/python3
 This is a fully function version of python, although it might be inconvient to transfer files back and forth.
 
 
-##Using a code editor
+## Using a code editor
 
 A code editor helps with reading and writing programming code. There are many around, and it is one of the most personal choices a programmer can make - Like a tennis-player choosing their racket, or a chef choosing their favourite knife. To start off with, you'll just want a basic, easy-to-use one that doesn't get in your way, but is still effective at writing python code. Here are some suggestions for those:
 
