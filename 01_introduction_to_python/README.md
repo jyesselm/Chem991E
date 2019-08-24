@@ -1,5 +1,4 @@
-# Lesson 1: How to Python and variable types 
-
+# Lesson 1: How to Python and Python Basics Part 1 
 ## How to run python 
 Option 1: Use the command line interpreter  
 
@@ -166,7 +165,7 @@ False
 ```
 
 ## Lists
-Are series of elements, initialized with []
+A series of elements, initialized with []
 
 ``` python
 >>>[] # empty list
@@ -246,5 +245,108 @@ Are series of elements, initialized with []
 ## More useful information on lists
 https://www.w3schools.com/python/python_lists.asp
 https://www.geeksforgeeks.org/python-list/
+
+## Dictionaries 
+
+A series of 'paired' elements, one is a unique key and one is a value. Instead of using indices like in lists to get values you can specify any value for a key. Dictionaries are defined using {} brackets
+
+```python
+>>>d = {'key1' : 'value1', 'key2' : 'value2'}
+>>>print(d)
+{'key2': 'value2', 'key1': 'value1'}
+
+>>>len(d) # get number of items
+2 
+
+>>>d['key1'] # get specific value by a key 
+'value'
+
+>>>d['key3'] # error for an invalid key 
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+KeyError: 'key3'
+
+>>>d['key3'] = 'value3' # add new key/value to dictionary 
+>>>d['key3']
+'value3'
+
+>>>d['key3'] = 'new_value' # override previous value 
+
+>>>del d['key'] # removes key/value pair from dictionary 
+
+>>>d.keys() # returns a list of keys in the dictionary 
+['key2', 'key1']
+
+>>>d.values() # returns a list of values in the dictionary 
+['value2', 'value1']
+
+```
+
+## Introduction to getting input from users 
+Most programs you have used require you to input some data, the simplest way to do this in python is with the `input` function
+ 
+```python
+>>>name = input("enter your name: ") # I will enter Joe when prompted
+enter your name: Joe
+>>>print(name)
+Joe
+```
+
+
+## Introduction to control structures and indentation
+
+if statements allow decisions to be made based on the resultant values of conditionals 
+
+```python
+>>>if 5 > 2: #5 is greater than 2 so will excute statement within the if statement. Statements within the if statement are tabbed 
+...     print("this is always true")
+... 
+this is always true
+
+>>>if 5 > 2:
+...print("wrong")
+  File "<stdin>", line 2
+    print("wrong")
+        ^
+IndentationError: expected an indented block
+
+>>>if 5 > 2:
+...  print("correct tabbing")
+
+# if statements can be paired with else statements, 
+>>>if 2 > 5:
+...   print("will not execute")
+...else:
+...   print("will execute")
+...
+will execute
+
+# if statements can also include elif statements which are a combination of a if and else statement.
+>>>num = 5
+>>>if num == 4:
+...  print("num is 4")
+...elif num == 5:
+...  print("num is 5")
+...else:
+...  print("num is something else")
+num is 5
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
