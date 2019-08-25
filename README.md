@@ -11,7 +11,7 @@ This may change as the course progresses. I will email out anytime it changes.
 
 | Lecture  | Date | Description |
 -----------|------|--------------
-| Lecture 01 | Sep 10 | How to Python, Python basics I: variable types, intro to control statements |
+| Lecture 01 | Sep 10 | How to Python, Python basics I: number and strings, intro to control statements |
 | Lecture 02 | Sep 12 | Python basics II: looping and functions |
 | Lecture 03 | Sep 17 | Python basics III: objects and classes |
 | Lecture 04 | Sep 22 | Python basics IV: misc topics including file IO, python modules  |
