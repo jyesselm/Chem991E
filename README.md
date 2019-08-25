@@ -41,8 +41,42 @@ This may change as the course progresses. I will email out anytime it changes.
 
 ### Grading 
 
-Grades will be based on a combination of attendance, class assignments, final project presentation, and the final project. Every Thursday class will be an in-class assignment where we work through a problem together. Bringing a computer is required, if you do not have a laptop please contact me. 	
-Attendance	15 %
-Class Assignments 	35 %
-Presentation	20 %
-Final Project 	30 %
+Grades will be based on a combination of attendance, class participation (asking questions, demonstrating reading the material), class assignments, final project presentation, and the final project. Most days will have an in-class assignment where we work through a problem together. It is required that you do the reading before hand! Bringing a computer is **required**, if you do not have a laptop please contact me. 
+
+Class assignments will be given in class, everyone will have until the next class to turn it in. The goal is to have everyone finish in class, if I see this is not happening I will adjust the difficulty. Everyone will be paired into groups, only one assignment is required to be turned in for both people. 
+
+Everyone is required to read the material **before** class, if I see you are not doing this you will lose points in participation. 
+
+It is okay to use code you find online as part of your projects and assignments but you **must** cite where you got it from (web adress is fine), and you still have to explain how it works. If you do not cite it you will recieve 0 for the assignment. 
+
+example of citing code 
+
+```python
+# opens and writes text to a file and was taken from the below address:
+# https://stackoverflow.com/questions/48959098/how-to-create-a-new-text-file-using-python/48964410
+file = open("copy.txt", "w") 
+file.write("Your text goes here") 
+file.close() 
+```
+Grading scheme
+	
+| Grading type | Percent of grade |
+---------------|------------------|
+|Attendance	|15 %|
+|Participation | 10 % |
+|Class Assignments 	|45 %|
+|Final Project |	20 %|
+|Final Prject Presentation	| 10 %|
+
+### Grades
+There is no curve, everyone can get an A.
+
+| Grade | Percent out of 100 required |
+--------|------------------------------
+| A | > 80 |
+| B | 70 |
+| C | 60 |
+| D | 50 |
+| F | < 50 |
+
+
