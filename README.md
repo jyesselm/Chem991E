@@ -1,6 +1,6 @@
 ## Syllabus
 
-Recommended References: (1) Mark Lutz, “Learning Python” 5th ed. O’Reilly 2013. (2) Frank Jenson, “Introduction to Computational Chemistry” 3rd ed. Wiley 2016 
+Recommended References: (1) Mark Lutz, “Learning Python” 5th ed. O’Reilly 2013. (2) Frank Jensen, “Introduction to Computational Chemistry” 3rd ed. Wiley 2016 
 
 Time: 10:30-11:45 am, T/R
 
@@ -12,21 +12,21 @@ This may change as the course progresses. I will email out anytime it changes.
 | Lecture  | Date | Description |
 -----------|------|--------------
 | Lecture 01 | Sep 10 | How to Python, Python basics I: number and strings, intro to control statements |
-| Lecture 02 | Sep 12 | Python basics II: looping and functions |
-| Lecture 03 | Sep 17 | Python basics III: objects and classes |
-| Lecture 04 | Sep 22 | Python basics IV: misc topics including file IO, python modules  |
-| Lecture 05 | Sep 24 | maintaining code with github, using new python packages |
-| Lecture 06 | Sep 26 | Scientific Python packages: Numpy and Scipy |
-| Lecture 07 | Oct 1  | Pandas package: data organization and processing|
-| Lecture 08 | Oct 3  | Plotting with Python Matplotlib and Seaborn |
-| Lecture 09 | Oct 8  | |
-| Lecture 10 | Oct 10  | |
-| Lecture 11 | Oct 15  | |
-| Lecture 12 | Oct 17  | |
-| Lecture 13 | Oct 24  | |
-| Lecture 14 | Oct 29  | |
-| Lecture 15 | Oct 31  | |
-| Lecture 16 | Nov 5  | |
+| Lecture 02 | Sep 12 | Python basics II: lists, dictionaries and looping |
+| Lecture 03 | Sep 17 | Python basics III: functions, how to comment code |
+| Lecture 04 | Sep 22 | Python basics IV: file IO and modules |
+| Lecture 05 | Sep 24 | Python basics V: objects and classes |
+| Lecture 06 | Sep 26 | Python basics VI: misc topics |
+| Lecture 07 | Oct 1| maintaining code with github, using new python packages |
+| Lecture 08 | Oct 3 | testing code with unittests |
+| Lecture 09 | Oct 8 | Scientific Python packages: Numpy and Scipy part I |
+| Lecture 10 | Oct 10 | Scientific Python packages: Numpy and Scipy part II |
+| Lecture 11 | Oct 15 | Pandas package: data organization and processing part I |
+| Lecture 12 | Oct 17 | Pandas package: data organization and processing part II |
+| Lecture 13 | Oct 24 | Pandas package: data organization and processing|
+| Lecture 14 | Oct 29  | Plotting with Python Matplotlib and Seaborn |
+| Lecture 15 | Oct 31  | Other useful python packages part I |
+| Lecture 16 | Nov 5  | Other useful python packages part II |
 | Lecture 17 | Nov 7  | Molecular dynamics (MD) and setting up gromacs jobs|
 | Lecture 18 | Nov 12  | Analyze MD runs |
 | Lecture 19 | Nov 14  | Density functional theory (DFT) and setting up guassian jobs |
