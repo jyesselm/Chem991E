@@ -11,32 +11,35 @@ This may change as the course progresses. I will email out anytime it changes.
 
 | Lecture  | Date | Description |
 -----------|------|--------------
-| Lecture 01 | Sep 10 | How to Python, Python basics I: number and strings, intro to control statements |
-| Lecture 02 | Sep 12 | Python basics II: lists, dictionaries and looping |
-| Lecture 03 | Sep 17 | Python basics III: functions, how to comment code |
-| Lecture 04 | Sep 22 | Python basics IV: file IO and modules |
-| Lecture 05 | Sep 24 | Python basics V: objects and classes |
-| Lecture 06 | Sep 26 | Python basics VI: misc topics |
-| Lecture 07 | Oct 1| maintaining code with github, using new python packages |
-| Lecture 08 | Oct 3 | testing code with unittests |
-| Lecture 09 | Oct 8 | Scientific Python packages: Numpy and Scipy part I |
-| Lecture 10 | Oct 10 | Scientific Python packages: Numpy and Scipy part II |
-| Lecture 11 | Oct 15 | Pandas package: data organization and processing part I |
-| Lecture 12 | Oct 17 | Pandas package: data organization and processing part II |
-| Lecture 13 | Oct 24 | Pandas package: data organization and processing|
-| Lecture 14 | Oct 29  | Plotting with Python Matplotlib and Seaborn |
-| Lecture 15 | Oct 31  | Other useful python packages part I |
-| Lecture 16 | Nov 5  | Other useful python packages part II |
-| Lecture 17 | Nov 7  | Molecular dynamics (MD) and setting up gromacs jobs|
-| Lecture 18 | Nov 12  | Analyze MD runs |
-| Lecture 19 | Nov 14  | Density functional theory (DFT) and setting up guassian jobs |
-| Lecture 20 | Nov 19  | Analyze DFT runs |
-| Lecture 21 | Nov 21  | Molecular docking and setting up autodock jobs |
-| Lecture 22 | Nov 26  | Analyze docking runs |
-| Lecture 23 | Dec 3   | Work / plan final project |
-| Lecture 24 | Dec 5   | Work / plan final project |
-| Lecture 25 | Dec 12  | Presenting final project (10 min presentation)|
-| Lecture 26 | Dec 14  | Presenting final project (10 min presentation), and free pizza |
+| Lecture 01 | Aug 27 | How to Python, Python basics I: number and strings, intro to control statements |
+| Lecture 02 | Aug 29 | Python basics II: lists, dictionaries and looping |
+| Lecture 03 | Sep 3 | Python basics III: functions, how to comment code |
+| Lecture 04 | Sep 5 | Python basics IV: file IO and modules |
+| Lecture 05 | Sep 10 | Python basics V: objects and classes |
+| Lecture 06 | Sep 12 | Python basics VI: misc topics |
+| Lecture 07 | Sep 17 | maintaining code with github, using new python packages |
+| Lecture 08 | Sep 22 | testing code with unittests |
+| Lecture 09 | Sep 24 | Scientific Python packages: Numpy and Scipy part I |
+| Lecture 10 | Sep 26 | Scientific Python packages: Numpy and Scipy part II |
+| Lecture 11 | Oct 1 | Pandas package: data organization and processing part I |
+| Lecture 12 | Oct 3 | Pandas package: data organization and processing part II |
+| Lecture 13 | Oct 8 | Plotting with Python Matplotlib and Seaborn part I|
+| Lecture 14 | Oct 10  | Plotting with Python Matplotlib and Seaborn part II |
+| Lecture 15 | Oct 15  | Other useful python packages part I |
+| Lecture 16 | Oct 17  | Other useful python packages part II |
+| Lecture 17 | Oct 24  | Simulation Techniques Overview |
+| Lecture 18 | Oct 31  | Molecular dynamics (MD) and setting up gromacs jobs|
+| Lecture 19 | Nov 5  | Analyze MD runs |
+| Lecture 20 | Nov 7  | Density functional theory (DFT) and setting up guassian jobs |
+| Lecture 21 | Nov 12  | Analyze DFT runs |
+| Lecture 22 | Nov 14  | Molecular docking and setting up autodock jobs |
+| Lecture 23 | Nov 19  | Analyze docking runs |
+| Lecture 24 | Nov 21  | Protein folding nd Rosetta protein design | 
+| Lecture 25 | Nov 26  | Analyze Rosetta protein design runs | 
+| Lecture 26 | Dec 3   | Work / plan final project |
+| Lecture 27 | Dec 5   | Work / plan final project |
+| Lecture 28 | Dec 12  | Presenting final project (10 min presentation)|
+| Lecture 29 | Dec 14  | Presenting final project (10 min presentation), and free pizza |
 
 
 ### Grading 
