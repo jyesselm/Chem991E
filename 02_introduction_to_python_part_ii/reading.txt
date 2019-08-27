@@ -1,0 +1,24 @@
+Mark Lutz, Learning Python, 5th ed. OReilly 2013.
+
+pg 239-255, 387-406      
+
+Other resources:
+
+lists:
+
+https://www.w3schools.com/python/python_lists.asp
+https://www.geeksforgeeks.org/python-list/
+
+dictionaries:
+
+https://www.w3schools.com/python/python_dictionaries.asp
+https://www.geeksforgeeks.org/python-dictionary/
+
+loops:
+
+https://www.programiz.com/python-programming/for-loop
+https://www.programiz.com/python-programming/while-loop
+https://www.learnpython.org/en/Loops
+https://www.w3schools.com/python/python_for_loops.asp
+
+
