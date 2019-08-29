@@ -95,7 +95,7 @@ A series of 'paired' elements, one is a unique key and one is a value. Instead o
 2 
 
 >>>d['key1'] # get specific value by a key 
-'value'
+'value1'
 
 >>>d['key3'] # error for an invalid key 
 Traceback (most recent call last):
@@ -126,7 +126,7 @@ https://www.geeksforgeeks.org/python-dictionary/
 Applies to lists, dictionaries and custom objects we will cover in future lectures.
 
 ```python
->>>a = [1, 2, 3, 4]
+>>>a = [1, 2, 3]
 >>>b = a	# now b is another reference or 'name' for the same list 
 >>>a.append(4)
 >>>print(b)
