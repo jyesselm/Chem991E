@@ -172,7 +172,7 @@ nums = [0, 5, 8, 9]
 for n in nums:
 	# checks to see if n is equal to 0
 	if n == 0:
-		print("n ="+n)
+		print("n ="+str(n))
 
 #output:
 #n = 0
