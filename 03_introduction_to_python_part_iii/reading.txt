@@ -1,0 +1,14 @@
+Mark Lutz, Learning Python, 5th ed. OReilly 2013. 
+
+pg 473-479, 485-491, 523-528, 533-536
+
+Additional reading:
+
+functions:
+https://www.geeksforgeeks.org/functions-in-python/
+http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/functions.html
+https://www.programiz.com/python-programming/function
+
+comments:
+https://realpython.com/python-comments-guide/
+https://realpython.com/documenting-python-code/
