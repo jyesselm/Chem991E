@@ -48,6 +48,17 @@ Grades will be based on a combination of attendance, class participation (asking
 
 Class assignments will be given in class, everyone will have until the next class to turn it in. The goal is to have everyone finish in class, if I see this is not happening I will adjust the difficulty. Everyone will be paired into groups, only one assignment is required to be turned in for both people. 
 
+Class assignments will be graded in the following scheme 
+
+| Assessment | Points (out of 100) |
+--------|------------------------------
+| Does the code work | 60 |
+| variable/function names | 10 |
+| commenting | 10 |
+| efficiency | 10 |
+| testing | 10 | 
+
+
 Everyone is required to read the material **before** class, if I see you are not doing this you will lose points in participation. 
 
 It is okay to use code you find online as part of your projects and assignments but you **must** cite where you got it from (web adress is fine), and you still have to explain how it works. If you do not cite it you will recieve 0 for the assignment. 
