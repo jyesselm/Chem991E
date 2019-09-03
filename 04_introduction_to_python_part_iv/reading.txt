@@ -1,0 +1,19 @@
+Mark Lutz, Learning Python, 5th ed. OReilly 2013. 
+
+pg 67-72, 663-684, 282-287, 290-292 
+
+Additional reading:
+
+modules:
+
+https://www.tutorialspoint.com/python/python_modules.htm
+https://www.w3schools.com/python/python_modules.asp
+https://www.datacamp.com/community/tutorials/modules-in-python
+
+file i/o
+
+https://www.programiz.com/python-programming/file-operation
+https://dbader.org/blog/python-file-io
+https://wiki.python.org/moin/UsingPickle
+https://www.datacamp.com/community/tutorials/pickle-python-tutorial
+
