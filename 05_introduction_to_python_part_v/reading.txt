@@ -1,0 +1,9 @@
+
+Recommended Videos
+https://www.youtube.com/watch?v=ZDa-Z5JzLYM
+https://www.youtube.com/watch?v=BJ-VvGyQxho
+
+Recommended Reading
+https://www.learnpython.org/en/Classes_and_Objects
+https://www.w3schools.com/python/python_classes.asp
+https://www.hackerearth.com/practice/python/object-oriented-programming/classes-and-objects-i/tutorial/
