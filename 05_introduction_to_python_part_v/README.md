@@ -1,4 +1,4 @@
-# Lesson 1: Basics Part 5, classes
+# Lesson 5: Basics Part 5, classes
 
 ## Declaring new classes
 
