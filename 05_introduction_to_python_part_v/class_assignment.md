@@ -25,12 +25,19 @@ class Vector3:
 		# returns a Vector3 object that is the sum of the two vectors 
 		pass
 		
+	# python2.7
 	def __div__(self, other):
 		# return vector divided by other. Each element is divided by the same
 		# value 
 		# returns a Vector3 object 
+	
+	#python 3.x
+	def __truediv__(self, other):
+		# return vector divided by other. Each element is divided by the same
+		# value 
+		# returns a Vector3 object 
 		
-	def __mult__(self, other):
+	def __mul__(self, other):
 		# return vector multiplied by other. Each element is multiplied by the same value
 		# returns a Vector3 object
 		
