@@ -11,22 +11,21 @@ class Person:
 	# Constructor 
 	def __init__(self, name): 
 		self.name = name 
-   
-    # To get name 
-    def get_name(self): 
-        return self.name 
-   
-    # To check if this person is employee 
-    def is_employee(self): 
-        return False
+	
+	# To get name
+	def get_name(self): 
+		return self.name 
+	
+	# To check if this person is employee 
+	def is_employee(self): 
+		return False
    
    
 # Inherited or Sub class (Note Person in bracket) 
 class Employee(Person): 
-   
-    # Here we return true 
-    def is_employee(self): 
-        return True
+	# Here we return true 
+	def is_employee(self): 
+		return True
    
 emp = Person("Geek1")  # An Object of Person 
 print(emp.get_name(), emp.is_employee()) 
