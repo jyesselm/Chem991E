@@ -1,0 +1,9 @@
+
+Recommended Videos
+https://www.youtube.com/watch?v=RSl87lqOXDE
+
+Recommended Reading
+https://www.python-course.eu/python3_inheritance.php
+https://www.geeksforgeeks.org/inheritance-in-python/
+https://www.geeksforgeeks.org/polymorphism-in-python/
+https://pythonspot.com/polymorphism/
