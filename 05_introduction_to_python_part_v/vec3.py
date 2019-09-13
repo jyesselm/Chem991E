@@ -59,7 +59,7 @@ class Vector3:
          Negates the current vector
 
          Returns:
-             None
+             
         """
 
         return Vector3(-self.x, -self.y, -self.z)
