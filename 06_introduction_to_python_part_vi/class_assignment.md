@@ -9,11 +9,11 @@ class Shape(object):
 	def __init__(self):
 		pass
 		
-	def shape_type():
+	def shape_type(self):
 		# return a string of what type of shape this is "circle", "square"
 		pass
 		
-	def area():
+	def area(self):
 		# returns area 
 		pass
 		
@@ -21,26 +21,26 @@ class Circle(Shape):
 	def __init__(self, radius):
 		pass
 	
-	def area():
+	def area(self):
 		pass
 		
 class Square(Shape):
 	def __init__(self, length):
 		pass
 		
-	def area():
+	def area(self):
 		pass
 		
 class Rectangle(Shape):
 	def __init__(self, width, height):
 		pass
 		
-	def area():
+	def area(self):
 		pass
 		
 		
 class ShapeFactory(object):
-	def get_shape(name):
+	def get_shape(self, name):
 		if name == "circle":
 			return Circle(random.randint(1, 10))
 		
@@ -52,7 +52,7 @@ class ShapeFactory(object):
 			# return recrangle with random width and length
 			pass
 			
-	def get_random_shape():
+	def get_random_shape(self):
 		# returns a random shape with random properties 
 		pass
 
