@@ -1,0 +1,8 @@
+
+
+Recommended videos:
+How to make a git repo on github: https://www.youtube.com/watch?v=LR5BYZjuXMU
+Basic git usage on windows: https://www.youtube.com/watch?v=hsHVGit53sg
+
+Recommended Reading:
+https://git-scm.com/docs/gittutorial
