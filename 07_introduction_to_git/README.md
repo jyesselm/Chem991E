@@ -171,9 +171,7 @@ $ git merge new_branch
 $ git push origin 
 ```
 
-Merge allows you to move the changes from `new_branch` to `master` after you get all the changes from github
-
-
+Merge allows you to move the changes from `new_branch` to `master` after you get all the changes from 
 
 
 
