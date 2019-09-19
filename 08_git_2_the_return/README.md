@@ -1,4 +1,4 @@
-# Lesson 8: The revenge of git
+Lesson 8: The revenge of git
 
 Git is a version control system of code projects. Basically it allows you to save and share your progress with other people, and work together on large projects. It also allows you to revert to older versions of your code if you made a mistake, or to make changes and not affect your release version. 
 
@@ -70,15 +70,129 @@ Now we are going to get the files for project from the class git folder. You can
 
 
 
+Here are where the files are located. "Documents/GitHub/Chem991E/07_introduction_to_git/class_assignment". Copy the four python files to your new repo.
 
 
 
+![](imgs/08.jpg)
 
 
 
+So now there should only be the 4 python files in your repo. As seen below. 
 
 
 
+![](imgs/09.jpg)
 
 
+
+Now go back to your PyCharm window and update the project files using the syncronize command which you find when you right click on the folder.
+
+![](imgs/10.jpg)
+
+
+
+This is what your PyCharm project window should look like now.
+
+
+
+![](imgs/11.jpg)
+
+
+
+Now lets go back to Git Desktop and commit these changes. When you get back to the Git Desktop window you should see something like this. There are these extra files that PyCharm uses to keep track of your project. You don't need to add these, shoul you can highlight them and hit "Ignore all .xml files" or "Ignore 6 Selected Files" either works.
+
+
+
+![](imgs/12.jpg)
+
+
+
+Now your Git Desktop window should look like this. The only files that are being changed/added are on below. Press "Commit to master"
+
+
+
+![](imgs/13.jpg)
+
+
+
+Finally push changes to github with "Push origin"
+
+
+
+![](imgs/14.jpg)
+
+
+
+You can now view the changes on github
+
+
+
+![](imgs/15.jpg)
+
+
+
+## Working with multiple branches
+
+When you are working with someone else do NOT work on master. Instead make a new branch make your changes then. Pull from master and then merge your changes into master and push
+
+Making a new branch, click on "Create New Branch"
+
+![](imgs/16.jpg)
+
+
+
+The branch does not exist so click in "Create Branch"
+
+
+
+![](imgs/17.jpg)
+
+
+
+Go back to PyCharm and make your changes, in this case I am going to implement changes to shield. Notice that after I make my edits "shield.py" is now blue indicating I have made changes that are not committed to the repo.
+
+
+
+![](imgs/18.jpg)
+
+
+
+Go back to Git Desktop and now you can see the changes highlighted that I have added. Go ahead and add a msg and press "Commit"
+
+
+
+![](imgs/19.jpg)
+
+
+
+Go to "Current Branch" and switch back to master branch by clicking on it
+
+
+
+![](imgs/20.jpg)
+
+
+
+Lastly before we merge, fetch origin to make sure we get all the changes in the top right, and then go to branches and click at the bottom merge into master. Press "Merge"
+
+
+
+![](imgs/21.jpg)
+
+
+
+Now go and push these changes to origin by clicking on "Push origin"
+
+
+
+![](imgs/22.jpg)
+
+
+
+And thats it! Now lets just delete the branch we made and we are done.
+
+
+
+![](imgs/23.jpg)
 
