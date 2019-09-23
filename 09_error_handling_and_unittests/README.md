@@ -74,8 +74,6 @@ Python comes with a set of quite a few exceptions see full list: https://docs.py
 
 Python also allows the definition of entirely new types of errors. This becomes more useful as programs become larger and require specific arguments.
 
-
-
 ```python
 class EmptyStringException(Exception): # new user defined exception
   pass
