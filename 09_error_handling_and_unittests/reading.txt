@@ -1,0 +1,11 @@
+
+
+Recommended videos:
+https://www.youtube.com/watch?v=NIWwJbo-9_8
+https://www.youtube.com/watch?v=nlCKrKGHSSk
+https://www.youtube.com/watch?v=NMTEjQ8-AJM
+
+Recommended Reading:
+https://realpython.com/python-exceptions/
+https://www.python-course.eu/python3_exception_handling.php
+https://docs.python.org/3/tutorial/errors.html
