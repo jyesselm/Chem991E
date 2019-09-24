@@ -23,7 +23,7 @@ class Vector3:
         return Vector3(self.x / other, self.y / other, self.z / other)
 
     # python 3.x
-    #def __truediv(self, other):
+    #def __truediv__(self, other):
     #    return Vector3(self.x / other, self.y / other, self.z / other)
     #
 
