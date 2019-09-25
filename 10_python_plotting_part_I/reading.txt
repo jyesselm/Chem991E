@@ -1,0 +1,13 @@
+
+
+Recommended videos:
+https://www.youtube.com/watch?v=PXD7faWtdAg&t=50s (quite nice since it explains how to do everything in pycharmm)
+https://www.youtube.com/watch?v=q7Bo_J8x_dw
+https://www.youtube.com/watch?v=UO98lJQ3QGI
+
+Recommended Reading:
+https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596
+https://matplotlib.org/3.1.1/tutorials/introductory/sample_plots.html
+
+Can also look through the gallery of graph types 
+https://matplotlib.org/3.1.1/gallery/index.html
