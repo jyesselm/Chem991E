@@ -4,7 +4,7 @@ These are reuable peices of code that are handy to know
 
 ##### string operations
 
-- [Reading every line in a file](###reading-every-line-in-a-file)
+- [Reading every line in a file](#reading-every-line-in-a-file)
 - [Splitting each string in a list by a delimiter](#Splitting each string in a list by a delimiter)
 
 
