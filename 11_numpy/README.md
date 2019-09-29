@@ -4,6 +4,12 @@ Numpy implements a lot of fast mathematical operations that would be too slow to
 
 
 
+## Getting Numpy
+
+Like matplotlib you need to install this module follow the same instructions for matplotlib.
+
+
+
 ## Numpy arrays
 
 Arrays are like python lists but are built to only do mathematical operations
