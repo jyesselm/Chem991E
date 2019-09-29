@@ -1,0 +1,10 @@
+
+
+Recommended videos:
+https://www.youtube.com/watch?v=xECXZ3tyONo
+https://www.youtube.com/watch?v=biLz7KPgHJA
+
+Recommended Reading:
+https://www.tutorialspoint.com/numpy/index.html (Go through the whole tutorial if possible)
+https://stackabuse.com/numpy-tutorial-a-simple-example-based-guide/
+https://docs.scipy.org/doc/numpy-1.15.1/user/quickstart.html
