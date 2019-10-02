@@ -1,0 +1,7 @@
+
+
+
+Recommended Reading:
+https://www.guru99.com/scipy-tutorial.html
+https://www.tutorialspoint.com/scipy/scipy_cluster.htm
+https://docs.scipy.org/doc/scipy/reference/tutorial/
