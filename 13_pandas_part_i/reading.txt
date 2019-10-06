@@ -1,0 +1,9 @@
+
+Recommended Videos:
+https://www.youtube.com/watch?v=e60ItwlZTKM
+https://www.youtube.com/watch?v=dcqPhpY7tWk
+
+
+Recommended Reading:
+https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/
+https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
