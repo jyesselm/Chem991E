@@ -76,7 +76,7 @@ plt.savefig("imgs/06.png")
 
 ![](imgs/06.png)
 
-### Categorical plots
+# Categorical plots
 
 
 
