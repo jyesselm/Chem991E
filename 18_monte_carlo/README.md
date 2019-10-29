@@ -153,7 +153,7 @@ import os
 
 steps = [10, 100, 1000, 10000, 100000, 1000000, 10000000]
 
-f_sum = open("README")
+f_sum = open("README", "w")
 
 os.mkdir("runs")
 i = 0
@@ -172,12 +172,14 @@ for s in steps:
   f.write(job_str)
   f.close()
   
-  f_sum.write("sbatch " + job_path)
+  f_sum.write("sbatch " + job_path + "\n")
+  
+  i += 1
   
 f_sum.close()
 ```
 
-
+At the end run ``source README``
 
 
 

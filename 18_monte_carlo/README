@@ -1,0 +1,7 @@
+sbatch runs/0/0.sh
+sbatch runs/1/1.sh
+sbatch runs/2/2.sh
+sbatch runs/3/3.sh
+sbatch runs/4/4.sh
+sbatch runs/5/5.sh
+sbatch runs/6/6.sh
