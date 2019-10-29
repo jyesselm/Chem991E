@@ -49,7 +49,9 @@ Monte Carlo method is a common name for a wide variety of stochastic techniques.
 
 The math behind this is a little complicated and you can check out the deviation in the tutorialMC.pdf also in this directory. 
 
-$$\displaystyle\int_{a}^{b}f(x)dx \approx \frac{b - a}{n}\sum_{i=1}^{n}f(x_i) $$
+![](imgs/equation.jpg)
+
+
 
 This approximation allows us sample a large number of random points under the curve of any function to calculate its integral. For simple equations this is not necessary but since this can work in n-dimensional space this can be quite powerful and is used in many application.
 
