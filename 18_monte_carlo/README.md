@@ -158,12 +158,9 @@ f_sum = open("README", "w")
 os.mkdir("runs")
 i = 0
 for s in steps:
-  job_str = """
-  #!/bin/bash                                                                
-	#SBATCH -t 1:00:00
-	#SBATCH -o out.txt
- 
-  python ../../test.py """ + str(s)
+  job_str = """#!/bin/bash                                                                #SBATCH -t 1:00:00
+#SBATCH -o out.txt
+python ../../test.py """ + str(s)
   
   os.mkdir("runs/" + str(i))
   
