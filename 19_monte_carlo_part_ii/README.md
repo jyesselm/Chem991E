@@ -86,8 +86,6 @@ def minimization(start_x, step_size, n_steps, func):
     return minimum, min_x, vec1, vec2
 ```
 
-
-
 Here we are dealing with a complex function that could easily trap a steepest decent aglorithm into a local minimal. We are starting at point x=-10, blue square is the lowest point and red dots are sampled points.
 
 ![](imgs/05.png)
