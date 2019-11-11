@@ -7,7 +7,7 @@ Some basic analysis
 $ gmx trjcat -f runs/*/md_0_1.trr
 
 # converts conformations from trajectory into pdb format
-$ gmx trjconv -f trajout.xtc -i trj.pdb -s md_0_1.tpr 
+$ gmx trjconv -f trajout.xtc -o trj.pdb -s md_0_1.tpr 
 
 # lets get that pdb, do this from another terminal window 
 # your directory will be different
