@@ -12,6 +12,11 @@ def sdnorm(x, n=2, d=0.0, s=1.0):
 def sdnorm2(x):
     return -sdnorm(x,10,7) - sdnorm(x,5,0,0.5) - sdnorm(x,1,-7)
 
+x = np.linspace(0, 200, 1000)
+plt.plot(x, sdnorm(x, d=100, n=5000)*2.5)
+plt.show()
+exit()
+
 
 def markov_chain_sampling(start_x, step_size, n_steps, func):
     current = start_x
