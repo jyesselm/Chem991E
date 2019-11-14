@@ -43,7 +43,8 @@ Well you get the idea but not very funnel like ...
 ### clustering
 
 ```shell
-# join le:silent runs/*/1l2y_silent.out -out:file:silent merged.out
+# join 
+combine_silent.default.linuxgccrelease runs/*/1l2y_silent.out -out:file:silent merged.out
 
 # generate 10 clusters out of the 1000 predicted structures
 $ cluster.default.linuxgccrelease -in:file:silent merged.out -cluster:limit_clusters 10
